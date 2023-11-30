@@ -21,7 +21,7 @@ The dataset consists of the following columns:
 | genre         | Genre or category of the movie.                                                       |
 | stars         | Stars/Celebrities in that movie.                                                      |
 
-This dataset provides information about the 100 lowest ranked movies, including their rankings, details such as release year and duration etc. This dataset can provide useful information about the lowest rated films: what is the most common genre? What is the most common rating? Which are the lowest rated films and which are the highest rated films?
+This dataset provides information about the 100 lowest ranked movies, including their rankings, details such as release year and duration etc. This dataset can provide useful information about the lowest ranked films: what is the most common genre? What is the most common rating? Which are the lowest rated films and which are the highest rated films?
 
 ## Conclusions
 -  Most of the films in this dataset are from the decade 2000-2010. This is followed by films from the decade 2010-2020.
