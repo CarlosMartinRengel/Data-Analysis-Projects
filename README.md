@@ -8,3 +8,5 @@ Welcome to my Data Analysis Projects Repository! This repository contains a coll
 ## Projects
 1. [NETFLIX Data Visualization and Analysis](https://github.com/CarlosMartinRengel/Data-Analysis-Projects/tree/main/NETFLIX%20Data%20Visualization%20and%20Analysis)
    - **Description:** This dataset of the movies & TV shows added to Netflix from 2008 to 2021 will be used to test my data cleaning and visualization skills.
+2. [IMDB 100 lowest ranked movies](https://github.com/CarlosMartinRengel/Data-Analysis-Projects/tree/main/IMDB%20100%20lowest%20ranked%20movies)
+   - **Description:** This dataset of the contains information about the 100 lowest ranked movies from the IMDb and can provide useful information.
