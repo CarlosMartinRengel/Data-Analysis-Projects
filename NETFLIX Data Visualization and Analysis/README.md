@@ -1,6 +1,7 @@
-# NETFLIX Data Visualization and Analysis
 
-![](https://upload.wikimedia.org/wikipedia/commons/6/69/Netflix_logo.svg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Netflix_logo.svg"
+    style="width:600px; float: left; margin: 0 40px 40px 40px;"></img>   
+# NETFLIX Data Visualization and Analysis
 
 Netflix is a popular streaming service that offers a vast catalog of movies, TV shows, and original contents. This dataset is a cleaned version of the original version which can be found here. The data consist of contents added to Netflix from 2008 to 2021. This dataset will be used to test my data cleaning and visualization skills.
 
