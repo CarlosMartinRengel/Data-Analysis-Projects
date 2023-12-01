@@ -1,6 +1,6 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/IMDB_Logo_2016.svg"
    style="width:400px; float: right; margin: 0 40px 40px 40px;"></img>
-# IMDB 100 lowest ranked movies
+# IMDb 100 lowest ranked movies
 
 The dataset contains information about the 100 lowest ranked movies from the IMDb site and its available on [Kaggle](https://www.kaggle.com/datasets/lakshayjain611/imdb-100-lowest-ranked-movies-dataset/data).
 
